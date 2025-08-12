@@ -4,6 +4,7 @@ This is a simple React application that includes a Login Form, Registration Form
 The project demonstrates the use of React components, props, and state management to navigate between different forms.
 
 📌 Features:
+
 Login Form with username & password fields
 
 Registration Form with name, DOB, email, phone number, and department selection
