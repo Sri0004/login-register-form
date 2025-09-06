@@ -29,7 +29,7 @@ JavaScript (Vanilla) – Form handling, validation, UI interaction
 
 1.Clone or download this repository:
 
-git clone:https://github.com/Sri0004/login-registration.git
+git clone:https://github.com/Sri0004/login-register-form.git
 
 2.Open the project folder.
 
